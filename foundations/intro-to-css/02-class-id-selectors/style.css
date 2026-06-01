@@ -8,8 +8,14 @@
     font-size:24px
 }
 
+/*Use hashtag for an ID*/
 #second-element{
   color:blue;
   font-size:36px;  
 
+}
+#fourth-element{
+    background-color:#90EE90;
+    font-size:24px;
+    font-weight: bold;
 }
