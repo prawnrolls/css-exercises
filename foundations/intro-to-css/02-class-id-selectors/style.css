@@ -1,6 +1,7 @@
 /* Add CSS Styling to odd-elements class*/
 .odd-elements{
     background-color:#FF7F7F;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
 }
 .third-element{
     font-size:24px
