@@ -3,6 +3,13 @@
     background-color:#FF7F7F;
     font-family: Verdana,"DejaVu Sans",sans-serif;
 }
+
 .third-element{
     font-size:24px
+}
+
+#second-element{
+  color:blue;
+  font-size:36px;  
+
 }
