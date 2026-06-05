@@ -17,7 +17,7 @@ body {
   font-weight: 800;
 }
 
-/*swap order of .confirm and .button so button will turn green*/
+/*swap order .confirm and .button so button will turn green*/
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
@@ -30,7 +30,8 @@ body {
   font-weight: bold;
 } 
 
-.child {
+/*add .text before.child bc inheritance*/
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
