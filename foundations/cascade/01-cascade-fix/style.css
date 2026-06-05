@@ -17,17 +17,18 @@ body {
   font-weight: 800;
 }
 
-.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
-
+/*swap order of .confirm and .button so button will turn green*/
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
+
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
 
 .child {
   color: rgb(0, 0, 0);
