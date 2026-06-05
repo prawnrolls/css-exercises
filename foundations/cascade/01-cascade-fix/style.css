@@ -30,13 +30,15 @@ body {
   font-weight: bold;
 } 
 
-/*add .text before.child bc inheritance*/
+/*add .text before .child to make it more specific than div.text*/
+/*2 classes*/
 .text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
 }
 
+/*1 type and 1 class*/
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
